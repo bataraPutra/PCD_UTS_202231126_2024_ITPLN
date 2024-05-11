@@ -1,13 +1,13 @@
 
 # PCD_UTS_202231126_2024_ITPLN
 
-Project ini adalah hasil pengerjaan UTS Pengolahan Citra Digital_D, dimulai dari : 
+Project ini adalah hasil pengerjaan UTS Pengolahan Citra Digital, dengan proyek: 
 
-- Pengambilan citra
-- Deteksi warna citra
-- Menghitung nilai ambang batas warna citra
+- potret citra
+- deteksi warna citra
+- hitung nilai ambang batas citra
 
-Project ini ditujukan kepada pengajar Pengolahan Citra Digital_D, agar dapat dinilai selesai.
+Project ini ditujukan kepada pengajar Pengolahan Citra Digital, hingga UTS selesai.
 ## Authors
 
 - ananda batara putra 202231126
@@ -17,6 +17,7 @@ Project ini ditujukan kepada pengajar Pengolahan Citra Digital_D, agar dapat din
  Ikuti petunjuk soal dan ambil foto pada selembar kertas yang bertuliskan nama lengkap peserta dengan  warna merah, hijau, dan biru, dengan instruktur akan menentukan aturan lain.
  - bahan citra = mobil.jpeg
  Setelah menyiapkan karya seni dan mengedit gambar, peserta akan diinstruksikan  untuk memanipulasi keseluruhan gambar menggunakan pemrograman Python.
+ 
  - algoritma dan teori: 
  1. Ambil gambar dan buat file Phyton baru.
  2. Impor perpustakaan dan muat file gambar. File gambar sebelumnya berada di lokasi yang sama dengan file Phyton.
